@@ -15,3 +15,6 @@ https://calzadosbatistella.com.ar/
 https://www.adidas.com.ar/
 
 https://www.soficalzados.com.ar/
+
+https://www.tamangocalzados.com.ar/
+
