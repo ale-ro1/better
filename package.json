@@ -2,9 +2,9 @@
   "name": "better",
   "version": "1.0.0",
   "description": "Better Sport",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
